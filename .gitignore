@@ -1,0 +1,14 @@
+################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/FirstCoreMVC/bin
+/Chen.Data/bin/Debug
+/FirstCoreMVC/obj/Debug
+/Chen.Data/obj/Debug
+/FirstCoreMVC/obj/Release
+/Chen.Data/bin/Release
+/Chen.Data/obj/Release
+/FirstCoreMVC/WebAPI.csproj.user
+/FirstCoreMVC/Properties
