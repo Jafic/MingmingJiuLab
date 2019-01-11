@@ -12,3 +12,5 @@
 /Chen.Data/obj/Release
 /FirstCoreMVC/WebAPI.csproj.user
 /FirstCoreMVC/Properties
+/Chen.Data
+/FirstCoreMVC/obj/FirstCoreMVC.csproj.EntityFrameworkCore.targets
