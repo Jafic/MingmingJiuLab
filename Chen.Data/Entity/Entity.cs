@@ -61,5 +61,8 @@ namespace Chen.Data.Entity
         /// 联系电话
         /// </summary>
         public string Telephone { get; set; }
+
+
+        public string AnotherAdd { get; set; }
     }
 }
