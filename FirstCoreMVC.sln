@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstCoreMVC", "FirstCoreMV
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chen.Data", "Chen.Data\Chen.Data.csproj", "{01AC498C-4426-4542-9E4F-C21345C51B00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chen.Migrations", "Chen.Migrations\Chen.Migrations.csproj", "{149DC6F6-B5B3-4373-AD8E-B85F977B954D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chen.Migrations", "Chen.Migrations\Chen.Migrations.csproj", "{149DC6F6-B5B3-4373-AD8E-B85F977B954D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chen.Model", "Chen.Model\Chen.Model.csproj", "{2B0F0E37-18F6-4EAE-8697-1A8A4922EB07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chen.Model", "Chen.Model\Chen.Model.csproj", "{2B0F0E37-18F6-4EAE-8697-1A8A4922EB07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
