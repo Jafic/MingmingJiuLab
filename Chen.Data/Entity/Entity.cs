@@ -64,5 +64,8 @@ namespace Chen.Data.Entity
 
 
         public string AnotherAdd { get; set; }
+
+
+        public string AnotherAddTwo { get; set; }
     }
 }

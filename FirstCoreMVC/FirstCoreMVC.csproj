@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Chen.Data\Chen.Data.csproj" />
+    <ProjectReference Include="..\Chen.Migrations\Chen.Migrations.csproj" />
   </ItemGroup>
 
 </Project>
