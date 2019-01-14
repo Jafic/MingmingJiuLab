@@ -1,9 +1,0 @@
-F:\Core\Chen.Model\bin\Debug\netcoreapp2.2\Chen.Model.deps.json
-F:\Core\Chen.Model\bin\Debug\netcoreapp2.2\Chen.Model.dll
-F:\Core\Chen.Model\bin\Debug\netcoreapp2.2\Chen.Model.pdb
-F:\Core\Chen.Model\obj\Debug\netcoreapp2.2\Chen.Model.csproj.CoreCompileInputs.cache
-F:\Core\Chen.Model\obj\Debug\netcoreapp2.2\Chen.Model.AssemblyInfoInputs.cache
-F:\Core\Chen.Model\obj\Debug\netcoreapp2.2\Chen.Model.AssemblyInfo.cs
-F:\Core\Chen.Model\obj\Debug\netcoreapp2.2\Chen.Model.dll
-F:\Core\Chen.Model\obj\Debug\netcoreapp2.2\Chen.Model.pdb
-F:\Core\Chen.Model\obj\Debug\netcoreapp2.2\Chen.Model.csprojResolveAssemblyReference.cache
