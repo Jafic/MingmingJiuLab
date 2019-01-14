@@ -3,11 +3,15 @@
 ################################################################################
 
 /.vs
-/FirstCoreMVC/bin
+
 /Chen.Data/bin
-/FirstCoreMVC/obj
 /Chen.Data/obj
+/Chen.Migrations/bin
+/Chen.Migrations/obj
+/Chen.Migrations/Migrations
+/Chen.Model/bin
+/Chen.Model/obj
+/FirstCoreMVC/bin
 /FirstCoreMVC/obj
 /FirstCoreMVC/WebAPI.csproj.user
 /FirstCoreMVC/Properties
-/Chen.Data/Migrations
