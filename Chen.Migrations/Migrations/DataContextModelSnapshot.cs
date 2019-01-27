@@ -47,6 +47,16 @@ namespace Chen.Migrations.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("User");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = "9ae7401b-3c33-4402-abea-44b5caff6375",
+                            CreateTime = new DateTime(2019, 1, 27, 11, 41, 25, 805, DateTimeKind.Local).AddTicks(5794),
+                            LoginName = "Jacfic",
+                            Password = "111111",
+                            UpdateTime = new DateTime(2019, 1, 27, 11, 41, 25, 806, DateTimeKind.Local).AddTicks(5027)
+                        });
                 });
 #pragma warning restore 612, 618
         }

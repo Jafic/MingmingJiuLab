@@ -10,6 +10,8 @@ namespace Chen.Data
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //数据种子
+            modelBuilder.Entity<User>().HasData(new User { LoginName = "Jacfic", Password = "111111" });
             base.OnModelCreating(modelBuilder);
         }
     }
