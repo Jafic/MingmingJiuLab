@@ -10,6 +10,8 @@
 /Chen.Migrations/Migrations
 /Chen.Model/bin
 /Chen.Model/obj
+/Chen.Tool/bin
+/Chen.Tool/obj
 /FirstCoreMVC/bin
 /FirstCoreMVC/obj
 /FirstCoreMVC/WebAPI.csproj.user
