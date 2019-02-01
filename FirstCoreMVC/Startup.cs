@@ -28,7 +28,8 @@ namespace FirstCoreMVC
                 options.CheckConsentNeeded = context => true;                options.MinimumSameSitePolicy = SameSiteMode.None;
             });
             //这里就是填写数据库的链接字符串
-            services.AddDbContext<DataContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DBConnection"),x=>x.MigrationsAssembly("Chen.Migrations")));
+            // services.AddDbContext<DataContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DBConnection"),x=>x.MigrationsAssembly("Chen.Migrations")));
+            services.AddDbContext<DataContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DBConnection")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
